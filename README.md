@@ -4,5 +4,5 @@
 ### Links Ãšteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
-# Olá Professores, dentro da pasta Introdução ao Git e ao GitHbu esta a resposta do Desafio que vocês proporam.
+## Olá Professores, dentro da pasta Introdução ao Git e ao GitHub esta a resposta do Desafio que vocês propuseram.
 
