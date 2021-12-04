@@ -2,7 +2,8 @@
 ### Essa é a solução do Emanoel Moraes para o Desafio
 
 ## Mentores
-> Otávio Reis
+> Otávio Reis.
+
 > Venilton Falvo Jr.
 
 ## _Otávio Reis_
